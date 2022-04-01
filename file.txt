@@ -1,2 +1,17 @@
-ciao ciao
-da Riccardo a Giuliano
+ISTRUZIONI GIT
+Trasforma la cartella corrente in una repository locale
+git init  
+Per fare un pull
+git pull [link]
+
+Per fare il push
+Collega la repository locale a quella in remoto
+git remote add origin "[link]"
+Aggiunge un messaggio di commit
+git commit -a
+Scrivi il messaggio e poi ESC ed 
+:wq
+Come ultimo passaggio
+git push origin
+
+
