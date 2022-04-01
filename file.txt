@@ -15,5 +15,10 @@ Come ultimo passaggio
 git push origin
 
 Per pushare in un altro ramo:
+rendere il progetto compatibile con git flow tramite comando
+-git flow init
+
+-git 
+
 
 
