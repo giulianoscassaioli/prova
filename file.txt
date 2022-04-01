@@ -1,4 +1,4 @@
-ISTRUZIONI GIT
+ISTRUZIONI GIT (GitBash)
 Trasforma la cartella corrente in una repository locale
 git init  
 Per fare un pull
