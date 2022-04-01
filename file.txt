@@ -15,5 +15,6 @@ Come ultimo passaggio
 git push origin
 
 Per pushare in un altro ramo:
+git push origin [ramo]
 
 
